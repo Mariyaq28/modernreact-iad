@@ -26,7 +26,7 @@ const handleCalculate = () => {
 
   return (
     <div className="calculator">
-      <h1 className="calculator-heading">Simple Calculator</h1>
+      <h1 className="calculator-heading">Modern React Calculator</h1>
 
       <div className="calculator-display">
         <input type="text" value={input} readOnly />
