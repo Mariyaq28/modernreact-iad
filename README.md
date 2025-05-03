@@ -2,7 +2,7 @@
 
 A clean and responsive calculator app built with **React**. This project demonstrates the use of React functional components and hooks to manage user input and perform basic arithmetic operations.
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./ss.png)
 
 ## 🌟 Features
 - ➕ Perform basic operations: Addition, Subtraction, Multiplication, Division
