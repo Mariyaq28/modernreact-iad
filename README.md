@@ -61,5 +61,4 @@ This project is licensed under the MIT License.
 
 
 Made for practicing **React**, clean UI, and modern JavaScript. 💻✨
-![App Screenshot](./ss.png)
 
