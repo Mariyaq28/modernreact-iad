@@ -1,6 +1,7 @@
 # 🔢 Simple Calculator (Modern React Version)
 
 A clean and responsive calculator app built with **React**. This project demonstrates the use of React functional components and hooks to manage user input and perform basic arithmetic operations.
+
 🚀 Live Demo 👉 https://modernreact-iad.netlify.app/
 
 
